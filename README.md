@@ -17,5 +17,4 @@ In conclusion (learned that in college), I am very proud of this project.  I am 
 It's all right here.  Nothing to install.  Use by looking, reading, and clicking.  Credit goes to the homework instructions, class examples, and further examples provided by the instructor.  Anyone is free to use my code in anyway they choose.  While I hope they wouldn't choose to use it to cheat, I'd be flattered if they did.
 
 ##  Badges, Contributing, Tests
-
-![NailedIt](https://img.shields.io/badge/All%20the%20sections-Nailed%20it-lightgrey)
+![NailedIt](https://img.shields.io/badge/All%20the%20sections-Nailed%20it-success)
